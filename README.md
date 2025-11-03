@@ -133,7 +133,7 @@ Suggested structure:
 
 Architecture diagram
 
-<img src="public/timeline-architecture.svg" alt="Architecture Diagram" />
+<img src="public/Timeline-architecture.svg" alt="Architecture Diagram" />
 
 
 ASCII fallback:
